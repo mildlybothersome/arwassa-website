@@ -22,3 +22,6 @@ I want to use the knowledge I gain from this to be able to build more websites i
 
 I have a complete About and Video page in terms of content. Fonts need to be finalised.
 Contact page is completed with working boxes that get sent to the band email address.
+Completed social media icons with a small animation when hovering
+Embedded a music player from Bandcamp using the code they provided to the home and about screen. 
+(Had difficulty with sizing for the larger player when trying to assign it to the right side of the page as it created a large amount of space. Not sure what the fix is, reverted to smaller player until I figure this out/get guidence.)
